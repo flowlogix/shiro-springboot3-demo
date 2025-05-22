@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.release>11</maven.compiler.release>
 		<shiro2.version>2.0.4</shiro2.version>
-		<spring-boot.version>3.4.5</spring-boot.version>
+		<spring-boot.version>3.4.6</spring-boot.version>
 		<spring.version>6.2.7</spring.version>
 		<checkstyle.skip>true</checkstyle.skip>
 		<test.redirect.to.file>false</test.redirect.to.file>
