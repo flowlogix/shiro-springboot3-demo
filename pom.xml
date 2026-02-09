@@ -18,7 +18,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.release>11</maven.compiler.release>
-		<shiro2.version>2.0.6</shiro2.version>
+		<shiro2.version>2.1.0</shiro2.version>
 		<spring-boot.version>3.5.7</spring-boot.version>
 		<spring.version>6.2.11</spring.version>
 		<checkstyle.skip>true</checkstyle.skip>
